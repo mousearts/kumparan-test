@@ -1,8 +1,8 @@
-#KUMPARAN BACKEND TEST
+# KUMPARAN BACKEND TEST
 
 Created with node.js.
 
-##To access the API
+## To access the API
 
 Go to:
 For News
@@ -11,7 +11,7 @@ For News
 For Topics
 `http://103.253.146.167:3000/topics/`
 
-###API Testing
+### API Testing
 
 | HTTP METHOD   | POST				| GET				| PATCH				| DELETE			|
 |---------------|-------------------|-------------------|-------------------|-------------------|
